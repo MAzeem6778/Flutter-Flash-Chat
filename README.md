@@ -1,1 +1,1 @@
-flutter ap for group chat
+flutter app for group chat
